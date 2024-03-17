@@ -1,0 +1,3 @@
+- Paste `nvim` and `nvim-data` folders in `$Home/AppData/Local`
+- Unzip `mason.zip` and `site.zip` inside `nvim-data`
+- Unzip `nvim-treesitter_kanagawa.zip` inside `nvim-data\site\pack\packer\start` (split due to 25MB upload git restriction)
