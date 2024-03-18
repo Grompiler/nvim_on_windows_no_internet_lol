@@ -2,3 +2,4 @@
 - Unzip `mason.zip` and `site.zip` inside `nvim-data`
 - Unzip `nvim-treesitter_kanagawa.zip` inside `nvim-data\site\pack\packer\start` (split due to 25MB upload git restriction)
 - Create `undodir` in `$Home/AppData/Local/nvim`
+- Install `ripgrep`
