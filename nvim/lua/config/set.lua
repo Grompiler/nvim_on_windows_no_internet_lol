@@ -11,7 +11,7 @@ vim.opt.wrap = false
 
 vim.opt.swapfile = false
 vim.opt.backup = false
-vim.opt.undodir = "$Home/AppData/Local/nvim/undodir"
+vim.opt.undodir = "./undodir"
 vim.opt.undofile = true
 
 vim.opt.incsearch = true
@@ -32,3 +32,4 @@ vim.opt.splitbelow = true
 
 vim.opt.ignorecase = true
 vim.opt.smartcase = true
+vim.opt.shell = 'powershell.exe'
