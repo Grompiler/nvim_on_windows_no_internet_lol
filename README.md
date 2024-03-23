@@ -2,6 +2,6 @@
 - Unzip `mason.zip` inside `nvim-data`
 - Unzip `opt.zip` <b>CONTENT</b> inside `nvim-data\site\pack\packer\opt`
 - Unzip `start.zip` <b>CONTENT</b> inside `nvim-data\site\pack\packer\start`
-- Unzip `telescope_treesitter_kanagawa.zip` inside `nvim-data\site\pack\packer\start` (split due to 25MB upload git restriction)
+- Unzip `telescope_treesitter_kanagawa.zip` <b>CONTENT</b> inside `nvim-data\site\pack\packer\start` (split due to 25MB upload git restriction)
 - Create `undodir` in `$Home\AppData\Local\nvim`
 - Install `ripgrep`
