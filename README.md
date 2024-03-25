@@ -3,5 +3,6 @@
 - Unzip `opt.zip` <b>CONTENT</b> inside `nvim-data\site\pack\packer\opt`
 - Unzip `start.zip` <b>CONTENT</b> inside `nvim-data\site\pack\packer\start`
 - Unzip `telescope_treesitter_kanagawa.zip` <b>CONTENT</b> inside `nvim-data\site\pack\packer\start` (split due to 25MB upload git restriction)
-- Create `undodir` in `$Home\AppData\Local\nvim`
+- Create `undodir` in `$HOME\AppData\Local\nvim`
+- Install required LSPs
 - Install `ripgrep`
